@@ -19,6 +19,9 @@ We can make lists – *note that lists need a carriage return before list items!
 > [This twitter thread](https://twitter.com/allison_horst/status/1287772985630191617) describes the palmerpenguins R package. 
 Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmerpenguins).
 
+[SPoRT LIS Alaska](https://weather.msfc.nasa.gov/sport/case_studies/lis_AK.html)
+![sample image](7e1a53efc6adec9c866912b9172c839d99998233)
+
 *Note that we've also made a indented quote block with the `>` symbol*
 
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. For example: 
