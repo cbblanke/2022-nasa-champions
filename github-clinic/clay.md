@@ -21,6 +21,9 @@ Learn more on the [palmerpenguins webpage](https://allisonhorst.github.io/palmer
 
 *Note that we've also made a indented quote block with the `>` symbol*
 
+[SPoRT Alaska LIS](https://weather.msfc.nasa.gov/sport/case_studies/lis_AK.html)
+![Sample image](https://weather.msfc.nasa.gov/cgi-bin/basicLooper.pl?category=lis_AK&initialize=first&regex=vsoim0-10_20220318)
+
 We can include an image with the same `[]()` pattern, but note the preceding exclamation point: `![]()`. For example: 
 
 ![](../horst-champions-trailhead.png)
